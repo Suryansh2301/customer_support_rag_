@@ -1,6 +1,4 @@
 """
-download_models.py
---------------------
 Run this ONCE, before you ever start the app:
 
     python download_models.py

@@ -4,7 +4,7 @@ from rag_chain import answer_query, preload_pipeline
 st.set_page_config(page_title="Customer Support Assistant", page_icon="💬")
 
 
-@st.cache_resource(show_spinner="Loading knowledge base and models (only happens once per server start)...")
+@st.cache_resource(show_spinner="Loading knowledge base and models...")
 def _warm_up():
     """Loads embeddings, vector store, reranker, and the LLM client BEFORE
     the chat UI is shown. Streamlit caches this across every rerun and every
@@ -14,7 +14,7 @@ def _warm_up():
     return True
 
 
-_warm_up()  # blocks here once, before anything below renders
+_warm_up()  
 
 st.title("💬 Customer Support Assistant")
 st.caption(

@@ -1,6 +1,4 @@
 """
-observability/dashboard.py
-------------------------------
 A small Streamlit dashboard for inspecting bot performance and usage,
 reading straight from observability/query_logs.jsonl (written
 automatically every time rag_chain.answer_query() runs -- no separate

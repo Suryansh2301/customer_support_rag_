@@ -5,13 +5,13 @@ Builds a PERSISTENT vector store (ChromaDB) from the customer support
 knowledge base CSV in data/support_dataset.csv.
 
 Run this ONCE (or whenever the dataset changes), after download_models.py:
-    python download_models.py   # first time only
+    python download_models.py   
     python build_index.py
 
 The app only ever LOADS the persisted index this script creates -- it
 never re-embeds anything at runtime.
 """
-import config  # sets HF_HOME before the imports below
+import config  
 config.enforce_offline_if_cached()
 
 import pandas as pd

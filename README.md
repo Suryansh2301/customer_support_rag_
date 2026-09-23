@@ -40,7 +40,7 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Copy `.env.example` to `.env` and add a free Groq API key from
+Create `.env` file and add a free Groq API key from
 https://console.groq.com (no credit card needed).
 
 ### 1. Download models (run once, ever)
@@ -154,5 +154,7 @@ observability/logger.py       JSONL query logger
 observability/dashboard.py    Streamlit metrics dashboard
 evaluation/eval_dataset.csv   held-out Q&A for scoring
 evaluation/evaluate.py        Ragas evaluation script
-requirements.txt, .env.example, .gitignore
+requirements.txt
+.env                          create this file and add API Key
+.gitignore
 ```

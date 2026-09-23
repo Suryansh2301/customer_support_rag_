@@ -1,7 +1,6 @@
 """
 config.py
 ----------
-Central configuration + environment setup for the whole project.
 
 Import this FIRST in every entry-point script (before langchain,
 sentence_transformers, or transformers), so HF_HOME (the local model
@@ -31,8 +30,6 @@ TOP_N_RERANKED = 3
 
 # --- local, project-relative model cache --------------------------------------
 # Every embedding/reranker download lands here instead of the global
-# ~/.cache/huggingface folder, so it's easy to find, ship with a deployment,
-# back up, or wipe.
 os.makedirs(MODEL_CACHE_DIR, exist_ok=True)
 os.environ.setdefault("HF_HOME", MODEL_CACHE_DIR)
 
