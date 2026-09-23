@@ -103,6 +103,8 @@ needed — evaluation stays free.
 
 ## Observability
 
+Only observability dashboard is not working update soon
+
 Every call to `answer_query()` logs one JSON line to
 `observability/query_logs.jsonl`: the question, answer, matched intents,
 and a latency breakdown (`retrieval_and_rerank`, `generation`, `total`).
