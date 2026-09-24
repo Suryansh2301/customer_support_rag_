@@ -1,6 +1,4 @@
 """
-observability/logger.py
---------------------------
 Minimal, local, dependency-free observability: every call to
 rag_chain.answer_query() is appended as one JSON line to
 observability/query_logs.jsonl -- no external account or service required.

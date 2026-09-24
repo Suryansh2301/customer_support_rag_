@@ -1,6 +1,4 @@
 """
-evaluation/evaluate.py
---------------------------
 Scores the RAG pipeline against a fixed evaluation set using Ragas:
   - faithfulness      : is the answer grounded in the retrieved context
                          (i.e. is it hallucinating)?
@@ -11,31 +9,28 @@ Scores the RAG pipeline against a fixed evaluation set using Ragas:
 Both the generation LLM and the Ragas "judge" LLM are Groq (free tier),
 and the similarity embeddings reuse the same local BAAI/bge-m3 model --
 no OpenAI key required, everything stays free and mostly local.
-
-Run:
-    python evaluation/evaluate.py
 """
 import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-import config  # noqa: E402
-config.enforce_offline_if_cached()  # noqa: E402
+import config  
+config.enforce_offline_if_cached()  
 
-import pandas as pd  # noqa: E402
-from datasets import Dataset  # noqa: E402
-from langchain_groq import ChatGroq  # noqa: E402
-from langchain_community.embeddings import HuggingFaceEmbeddings  # noqa: E402
-from ragas import evaluate  # noqa: E402
-from ragas.metrics import (  # noqa: E402
+import pandas as pd  
+from datasets import Dataset  
+from langchain_groq import ChatGroq  
+from langchain_community.embeddings import HuggingFaceEmbeddings  
+from ragas import evaluate  
+from ragas.metrics import (  
     faithfulness,
     answer_relevancy,
     context_precision,
     context_recall,
 )
 
-from rag_chain import answer_query, preload_pipeline, _retrieve_and_rerank  # noqa: E402
+from rag_chain import answer_query, preload_pipeline, _retrieve_and_rerank  
 
 EVAL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "eval_dataset.csv")
 REPORT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "eval_report.csv")
