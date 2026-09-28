@@ -515,21 +515,6 @@ Create a `.env` file:
 GROQ_API_KEY=your_groq_api_key
 ```
 
-A Groq API key is required for LLM generation.
-
-Do not commit the real `.env` file to GitHub.
-
-Recommended:
-
-```text
-.env
-.env.example
-```
-
-Commit `.env.example`, but never commit real API keys.
-
----
-
 # Complete Setup
 
 After cloning the repository:
@@ -556,6 +541,7 @@ venv\Scripts\activate
 
 ```bash
 pip install -r requirements.txt
+pip install -r requirements-evaluation.txt this is for evaluation ---RAGAS
 ```
 
 ### 4. Configure environment variables
@@ -610,6 +596,7 @@ The project contains a small built-in customer-support dataset:
 
 ```text
 data/support_dataset.csv
+data/support_dataset_2.csv
 ```
 
 It contains approximately:
@@ -653,6 +640,7 @@ customer_support_rag/
 │
 ├── data/
 │   └── support_dataset.csv
+│   └── support_dataset_2.csv
 │
 ├── chroma_db/
 │
@@ -660,6 +648,7 @@ customer_support_rag/
 │
 ├── evaluation/
 │   ├── eval_dataset.csv
+│   ├── eval_dataset_2.csv
 │   ├── evaluate.py
 │   └── eval_report.csv
 │

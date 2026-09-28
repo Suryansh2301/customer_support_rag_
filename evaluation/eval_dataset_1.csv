@@ -1,0 +1,100 @@
+question,ground_truth
+"I placed an order two days ago, can you tell me where it is?",You can track your order in real time by visiting the 'Order Tracking' page and entering your order number and email address.
+"I no longer want the item I ordered, how do I cancel it?","You can cancel your order from 'My Orders' within 1 hour of placing it, as long as it hasn't shipped yet."
+I'm unhappy with my purchase and want my money back.,"I'm sorry to hear that. Refunds are available within 30 days of delivery, please share your order number and reason for the refund."
+What's the timeframe for returning something I bought?,"Items can be returned within 30 days of delivery, provided they're unused and in original packaging."
+My order should have arrived by now but hasn't.,I'm sorry for the delay. Please share your order number so I can check the latest carrier update.
+My credit card got rejected at checkout.,"Cards can be declined due to insufficient funds, incorrect billing details, or your bank's fraud checks. Please verify with your bank or try another card."
+Where can I download my bill for tax purposes?,"Yes, tax invoices are automatically generated and available for download with every order."
+I moved and need to update where my package gets sent.,"If your order hasn't shipped yet, you can update the address under 'My Orders'; otherwise please contact support right away."
+Will this product come back in stock soon?,Restock dates vary by item; you can click 'Notify Me' on the product page to get an alert as soon as it's back.
+I'd like to speak with a real person about my issue.,"You can reach a human agent via live chat during business hours, or by emailing support@example.com."
+I forgot my password and can't sign in.,Please try resetting your password using the 'Forgot Password' link on the login page.
+How do I stop my monthly membership charges?,You can cancel anytime under 'Account Settings' then 'Subscriptions' then 'Cancel Subscription'.
+Can I get a bigger size than what's shown as available?,"Availability varies by size, please check the size selector on the product page for current stock."
+I received someone else's item in my package.,"I'm sorry to hear you've had a bad experience. Please share the details and your order number, and I'll escalate this to our support team."
+Is my payment information safe when I check out?,"Yes, all payments are processed through encrypted, PCI-compliant payment gateways."
+"Ordered without creating an account, how can I follow the delivery?",Guest orders can be tracked from the 'Order Tracking' page using your order number and the email address used at checkout.
+I need my order ID but can't locate it anywhere.,Your order number is in your order confirmation email and under 'My Orders' in your account.
+"The parcel status only says label created, is something wrong?",'Label created' means the shipping label has been generated but the carrier hasn't scanned the package yet. Tracking numbers can take up to 24 hours to activate after the order ships.
+My tracking has been frozen for three days now.,"Tracking can pause briefly between carrier scans. If there's been no movement for 3 business days, please share your order number and we'll check with the carrier."
+Which delivery company has my package?,The carrier name is shown in your shipping confirmation email and on the 'Order Tracking' page next to your tracking number.
+"My purchase came in two boxes at different times, how do I follow both?","Orders can ship in separate packages, each with its own tracking number. You'll find every tracking link under 'My Orders'."
+What is the meaning of the 'on hold' label on my purchase?,An order can be placed on hold if we need to verify payment or address details. Please contact support with your order number so we can clear it quickly.
+How many days until you dispatch what I bought?,Orders typically ship within 1-2 business days. You'll receive an email confirmation with tracking details once it ships.
+"My order says partially shipped, what does that mean?",That means part of your order has shipped while the remaining items are still being prepared. Each shipment has its own tracking details under 'My Orders'.
+Do you send an email when the status of my order changes?,"We email you when your order is confirmed and again when it ships, with tracking details."
+I never received the confirmation mail after buying.,"Please check your spam folder first. You can also look under 'My Orders'; if the order isn't listed there, contact support with your payment details."
+It has been stuck on processing for almost a week.,"That's longer than usual. Status updates can be delayed during high-volume periods, please share your order number for a manual check."
+"I clicked buy by accident, can you stop the order?","No worries. You can cancel from 'My Orders' within 1 hour of placing the order, as long as it hasn't shipped yet."
+Can't find where to cancel in my account.,"Open 'My Orders', select the order and choose 'Cancel Order'. The option is available only before the order ships."
+Do I get reimbursed if I cancel before dispatch?,"Yes, cancellations made before shipping are refunded, and the refund is issued within 3-5 business days."
+The option to cancel is unavailable for my order.,The cancel option is disabled once an order has shipped or the cancellation window has passed. Please contact support with your order number and we'll check what can be done.
+"Found a better deal elsewhere, want to call off my purchase.","Understood. If your order hasn't shipped yet, you can cancel it for free from 'My Orders'."
+Will cancelling something impact my account standing?,"No, cancelling an order won't affect your account or your ability to place future orders."
+Can I get the item in a different shade after ordering?,"If your order hasn't shipped yet, we can update the colour. Please contact support with your order number as soon as possible."
+How much time do I have to modify my order?,"Orders can be edited until they ship, which is typically within 1-2 business days, so it's best to contact us as soon as possible."
+Is it possible to merge my two orders and ship them together?,Unfortunately orders can't be combined once placed. Each order is processed and shipped separately.
+I want to lower the number of units I bought.,"Quantity changes, including reductions, are possible before the order ships. Reply with your order number and the new quantity."
+Can I switch to another model of the product I ordered?,"If the order hasn't shipped, contact support with your order number and the model you want. If it has shipped, you can return it and place a new order."
+"The order has the incorrect product, can it be fixed?","I'm sorry about that. If it hasn't shipped, we can correct it, please share your order number and the item you wanted."
+How do I get reimbursed for something I returned?,Refunds are available within 30 days of delivery. Start a return from 'My Orders' and your refund is issued after we receive the item.
+Which account will my refund be credited to?,"Refunds go back to your original payment method, or you can choose store credit during the return process."
+Will the delivery fee also come back to me?,"Shipping fees are refunded when the return is due to a defective or incorrect item, or a delayed delivery. For other returns, the shipping fee may not be refunded."
+My bank hasn't shown the refund though the app says it's issued.,"Once we process your refund, banks can take a few extra days to post it. If it's been more than 10 business days, please contact support with your order number."
+I'd rather take credit for the store than a refund.,You can choose store credit during the return process instead of a refund to your original payment method.
+"My return window ended two days ago, any chance of a refund?","Refunds are available within 30 days of delivery. If you're outside that window, please contact support with your order number and we'll review your case."
+When does the 30-day clock for returns begin?,"The 30 days start from the date your order is delivered, not the date you placed it."
+"The product I received doesn't work, can I send it back?","I'm sorry about that. Defective items can be returned even if opened, and return shipping is free. Start a return from 'My Orders'."
+Can I swap my purchase for something else instead of returning it?,"Yes, you can request an exchange when starting a return from 'My Orders'. Exchanges depend on stock availability."
+I only want to send back one of the three things I ordered.,"Yes, you can return individual items from an order. Select the item under 'My Orders' and click 'Start a Return', and a partial refund will be issued."
+The prepaid return label I got won't scan.,Sorry about that. Please contact support with your order number and we'll send you a new prepaid label.
+How do I know you got the package I sent back?,"You'll get an email once we receive and inspect your return, and your refund will follow within 5-7 business days."
+The delivery estimate is over and nothing has come.,I apologize for the delay. Please share your order number so I can check the latest carrier update.
+"Courier tried to deliver but nobody was home, what happens now?","The carrier will usually retry delivery or leave a notice with pickup instructions. Please check the 'Order Tracking' page, and contact support if it isn't resolved."
+Tracking says my parcel was lost.,I'm sorry about that. Please share your order number and we'll open an investigation with the carrier and arrange a replacement or refund.
+My package was sent back to you without reaching me.,"I'm sorry about that. Please share your order number, and once the package reaches us we'll arrange a reshipment or refund."
+Will you make up for the late arrival?,"We're sorry for the inconvenience. For delayed orders we can offer a refund on shipping fees or a replacement if it doesn't arrive, please share your order number."
+It has been sitting at a hub for days.,"I'm sorry about that. Please share your order number so we can contact the carrier, and if it doesn't move soon we'll arrange a replacement or refund."
+The amount left my account but the order wasn't placed.,"I'm sorry about that. If your payment failed but the amount was deducted, it's usually reversed automatically within 3-5 business days. Please share your order number so we can confirm."
+What ways of paying do you support?,"We accept the payment methods shown at checkout, including major credit and debit cards."
+I'm not getting the bank OTP while paying.,"The OTP is sent by your bank, so please check that your registered mobile number is active and try again. If it still doesn't arrive, contact your bank."
+Same card works on other sites but not yours.,This can happen if your bank blocks online or international transactions or if billing details don't match. Please contact your bank or try another payment method.
+"If the payment doesn't succeed, is my order still booked?","No, an order is only confirmed after payment succeeds. Please retry the payment to complete your order."
+There's one pending charge and one completed for the same purchase.,"Some banks show a temporary authorization hold in addition to the final charge. Holds typically drop off within 3-5 business days. If both charges remain, please share your order number."
+How can I download the bill for a purchase from last year?,"Yes, invoices for all your past orders are available under 'My Orders' via 'Download Invoice'."
+I need a GST bill in my company's name.,Please share your company name and GSTIN along with your order number and we'll issue a tax invoice with your business details.
+The name printed on my bill is wrong.,I'm sorry about that. Please share the correct name and your order number and we'll issue a corrected invoice.
+Does every purchase come with its own bill?,"Yes, every order gets its own invoice, available under 'My Orders'."
+The download invoice button does nothing when I click.,"Sorry about that. Please try refreshing or using another browser. If it still doesn't work, contact support with your order number and we'll email your invoice."
+Will I get a bill for an order I cancelled?,Invoices are issued for completed orders. For cancelled orders you'll receive a cancellation confirmation and refund details by email.
+I'd like my parcel delivered to my workplace rather than home.,"If your order hasn't shipped yet, you can update the address under 'My Orders'; otherwise please contact support right away."
+How can I add another address to my profile?,Go to 'Account Settings' then 'Addresses' and click 'Add New Address'.
+"My package is heading to the wrong place, please stop it.",I'm sorry about that. Please share your order number so we can contact the carrier right away about redirecting the package.
+I put in the wrong flat number at checkout.,"No problem, please share the correct apartment number and your order number and we'll update it if the order hasn't shipped."
+Where do I set my default delivery address?,"Yes, you can choose a default address under 'Account Settings' then 'Addresses'."
+Can I have my order delivered to a friend's place?,"Yes, you can enter any delivery address at checkout, or update it under 'My Orders' before the order ships."
+The size I want is greyed out on the page.,A greyed-out size means it's currently out of stock. Click 'Notify Me' to get an alert when it's back.
+How can I get an alert when this item returns?,Click 'Notify Me' on the product page and enter your email to get an alert as soon as it's back in stock.
+"I need 100 pieces of this, do you have that many?","For bulk quantities, please contact support with the product name and quantity and we'll check availability for you."
+Can I book this product ahead of its release?,"Pre-orders are available only on select items marked 'Pre-order' on the product page. Otherwise, you can sign up for a restock notification."
+How do I know if you deliver to my pin code?,Please enter your pin code on the product page to check delivery availability for your location.
+"The page doesn't exist anymore, has the product been discontinued?",If a product page is no longer available it may have been discontinued. Please share the product name and I'll check if there's an alternative.
+What's your customer care email?,You can email us at support@example.com and we'll get back to you.
+Can I chat with someone on a Sunday?,"Our support team is available Monday to Saturday, 9 AM to 9 PM, so live chat isn't available on Sundays. You can email support@example.com anytime."
+Am I talking to an actual human right now?,"I'm an automated assistant here to help with common questions. If you'd like a human agent, you can reach one via live chat during business hours or email support@example.com."
+I keep writing to you and nobody responds.,I'm sorry for the frustration. Please share your order number and the details of your earlier requests and I'll escalate this to our support team.
+Where can I see all the ways to get in touch?,"You'll find all our contact options, including live chat, email and the support hotline, on the 'Contact Us' page."
+Until what time can I reach a support agent?,"Our support team is available Monday to Saturday, 9 AM to 9 PM."
+The site says my email or password is incorrect.,"Please double-check your email and password, including capitalisation. If you're still stuck, use the 'Forgot Password' link to reset it."
+Where can I update my password?,Go to 'Account Settings' then 'Security' to change your password. You'll need your current password.
+My reset link doesn't work anymore.,Reset links expire after a short time for security. Please request a new one using the 'Forgot Password' link on the login page.
+I think someone else is using my account.,I'm sorry to hear that. Please reset your password right away using 'Forgot Password' and contact support so we can help secure your account.
+I can't get the login code on my phone.,"Please check that your registered mobile number is correct and has network coverage, then request a new OTP. If it still doesn't arrive, contact support."
+I no longer use my old email and can't sign in.,Please contact support with your name and a recent order number so we can verify you and help update the email on your account.
+Where can I see when my membership renews?,Your next billing date is shown under 'Account Settings' then 'Subscriptions'.
+I don't want my plan to renew automatically.,"Cancel under 'Account Settings' then 'Subscriptions' to turn off renewal. If you cancel before your next billing date, you won't be charged again."
+The cancel button on the subscription page is dead.,"Sorry about that. Please try refreshing or a different browser. If it still doesn't work, contact support with your account email and we'll cancel it for you."
+Will I lose my order history if I end my membership?,"No, cancelling your subscription doesn't delete your account or order history, and you can reactivate anytime."
+I want to resume my paused plan before the pause ends.,"Yes, you can resume anytime from 'Subscription Settings' before the pause ends."
+"Missed the cancellation date and got billed, can you look into it?",I'm sorry about that. Please share your account email and the charge date and we'll review your case.

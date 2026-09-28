@@ -16,3 +16,5 @@ model_cache/
 .cache/
 huggingface_cache/
 
+# Streamlit
+.streamlit/secrets.toml
