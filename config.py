@@ -18,7 +18,8 @@ LOG_PATH = os.path.join(BASE_DIR, "observability", "query_logs.jsonl")
 
 # --- models 
 COLLECTION_NAME = "customer_support_kb"
-EMBEDDING_MODEL = "BAAI/bge-m3"
+# EMBEDDING_MODEL = "BAAI/bge-m3" # model size is 2.27 GB which is take too much time if you have not a GPU
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5" # this is perfect for CPU 
 RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 # GROQ_MODEL = "llama-3.3-70b-versatile"
 GROQ_MODEL = "openai/gpt-oss-120b"
