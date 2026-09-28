@@ -17,4 +17,4 @@ model_cache/
 huggingface_cache/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/config.toml
